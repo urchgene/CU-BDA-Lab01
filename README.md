@@ -13,7 +13,7 @@ The standard for genetic evaluation in plant and animal breeding is the use of t
 ####Data for genetic evaluation:
 For genetic evaluation, we need trait records from different genotypes. Examples of traits are grain yeild, plant height, absense/presence of disease etc. Trait records can be continuous or discrete in nature. We also need pedigree records showing parents and offspring of a genotype or recently a genomic marker matrix showing markers and alleles inherited by different genotypes been evaluated.
 
-![Alt text](http://CU-BDA-Lab01/data.png?raw=true  "Trait records for genetic evaluation")
+![Alt text](/home/okeke/CU-BDA-Lab01/data.png?raw=true  "Trait records for genetic evaluation")
 
 
 

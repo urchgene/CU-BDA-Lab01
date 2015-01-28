@@ -11,7 +11,7 @@ In the plant breeding field, breeders usually carry out multi-environment trials
 The standard for genetic evaluation in plant and animal breeding is the use of the Linear Mixed Model (LMM) Analysis or BLUP machinery (Henderson, 1950). BLUPs of genotypes obtained from the LMM analysis while assuming that genotypes come from a normal distribution with a zero mean and variance-covariance matrix accounting for genetic relatedness of genotypes (via a pedigree or genomic information) are termed *breeding values* which are invaluable information for selection decisions in plant breeding.
 
 ####Data for genetic evaluation:
-For genetic evaluation, we need trait records from different genotypes. Examples of traits are grain yeild, plant height, absense/presence of disease etc. Trait records can be continuous or discrete in nature. We also need pedigree records showing parents and offspring of a genotype or recently a genomic marker matrix showing markers and alleles inherited by different genotypes been evaluated.
+For genetic evaluation, we need trait records from different genotypes. Examples of traits are grain yeild, plant height, absense/presence of disease etc. Trait records can be continuous or discrete in nature. We also need pedigree records showing parents and offspring of a genotype or recently a genomic marker matrix showing markers and alleles inherited by different genotypes been evaluated. An example of a traits record file is shown below:
 
 ![Alt text](https://github.com/urchgene/CU-BDA-Lab01/blob/master/data.png?raw=true  "Trait records for genetic evaluation")
 
